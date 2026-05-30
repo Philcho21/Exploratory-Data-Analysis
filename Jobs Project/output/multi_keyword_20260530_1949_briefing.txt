@@ -1,0 +1,182 @@
+RECRUITMENT INTELLIGENCE BRIEFING
+Generated  : 30 May 2026 19:49 UTC
+Keywords   : Data Analyst, Data Scientist, Data Engineer, Machine Learning Engineer, MLOps Engineer, DevOps Engineer, Platform Engineer, Site Reliability Engineer, Software Engineer, Backend Developer, Frontend Developer, Full Stack Developer, Cloud Engineer, Python Developer, Java Developer, Business Intelligence Analyst
+Location   : global (all countries)
+====================================================================
+
+TOTAL UNIQUE VACANCIES : 1,007
+
+SOURCE BREAKDOWN:
+  Reed                                            415 postings
+  Adzuna/IT Jobs [United Kingdom]                 111 postings
+  Adzuna/IT Jobs [United States]                  102 postings
+  Adzuna/Unknown [France]                          91 postings
+  Adzuna/Unknown [Germany]                         80 postings
+  Adzuna/Stellen aus PR, Werbung & Marketing [Germany]    55 postings
+  Adzuna/Emplois Informatique [France]             20 postings
+  Adzuna/Social work Jobs [United States]          10 postings
+  Adzuna/Emplois Comptabilité et Finance [France]     9 postings
+  Adzuna/Healthcare & Nursing Jobs [United States]     8 postings
+  Adzuna/Accounting & Finance Jobs [United Kingdom]     7 postings
+  Adzuna/IT-Stellen [Germany]                       7 postings
+  Adzuna/Engineering Jobs [United States]           6 postings
+  Adzuna/PR, Advertising & Marketing Jobs [United Kingdom]     5 postings
+  Adzuna/HR & Recruitment Jobs [United Kingdom]     4 postings
+  Adzuna/Admin Jobs [United Kingdom]                4 postings
+  Adzuna/Admin Jobs [United States]                 4 postings
+  Adzuna/Emplois Consultants [France]               4 postings
+  Adzuna/Emplois Diplômés [France]                  4 postings
+  Adzuna/Emplois Enseignement [France]              4 postings
+  Adzuna/Sales Jobs [United Kingdom]                3 postings
+  Adzuna/Consultancy Jobs [United Kingdom]          3 postings
+  Adzuna/Accounting & Finance Jobs [United States]     3 postings
+  Adzuna/Scientific & QA Jobs [United States]       3 postings
+  Adzuna/Consultancy Jobs [United States]           3 postings
+  Adzuna/Emplois Ingénierie [France]                3 postings
+  Adzuna/Customer Services Jobs [United Kingdom]     2 postings
+  Adzuna/Scientific & QA Jobs [United Kingdom]      2 postings
+  Adzuna/Energy, Oil & Gas Jobs [United States]     2 postings
+  Adzuna/Sonstige/Allgemeine Stellen [Germany]      2 postings
+  Adzuna/Stellen für Hochschulabsolventen [Germany]     2 postings
+  Adzuna/Emplois RP, Publicité et Marketing [France]     2 postings
+  Adzuna/Emplois Autres/Général [France]            2 postings
+  Adzuna/Emplois Fabrication [France]               2 postings
+  Adzuna/Emplois Distribution et Entrepôts [France]     2 postings
+  Adzuna/Retail Jobs [United Kingdom]               1 postings
+  Adzuna/Manufacturing Jobs [United Kingdom]        1 postings
+  Adzuna/Engineering Jobs [United Kingdom]          1 postings
+  Adzuna/Logistics & Warehouse Jobs [United Kingdom]     1 postings
+  Adzuna/Graduate Jobs [United Kingdom]             1 postings
+  Adzuna/HR & Recruitment Jobs [United States]      1 postings
+  Adzuna/Trade & Construction Jobs [United States]     1 postings
+  Adzuna/Teaching Jobs [United States]              1 postings
+  Adzuna/PR, Advertising & Marketing Jobs [United States]     1 postings
+  Adzuna/Sales Jobs [United States]                 1 postings
+  Adzuna/Part time Jobs [United States]             1 postings
+  Adzuna/Creative & Design Jobs [United States]     1 postings
+  Adzuna/Logistics & Warehouse Jobs [United States]     1 postings
+  Adzuna/Stellen aus Buchhaltung & Finanzwesen [Germany]     1 postings
+  Adzuna/Stellen aus Logistik & Lagerhaltung [Germany]     1 postings
+  Adzuna/Stellen aus Gastronomie & Catering [Germany]     1 postings
+  Adzuna/Technikerstellen [Germany]                 1 postings
+  Adzuna/Emplois Voyages [France]                   1 postings
+  Adzuna/Emplois Hospitalité et Restauration [France]     1 postings
+  Adzuna/Emplois Soins de santé et infirmiers [France]     1 postings
+  Adzuna/Emplois Vente [France]                     1 postings
+
+GEO DISTRIBUTION (top 12 countries):
+  United Kingdom                        543
+  United States                         149
+  Deutschland                           135
+  France                                135
+  Éire / Ireland                          7
+  Canada                                  2
+  Nederland                               1
+  مصر                                     1
+
+CURRENCIES:
+  GBP            826 postings
+  USD            149 postings
+  EUR             32 postings
+
+CONTRACT TYPES:
+  Full-Time                             574
+  Full-time                             415
+  Part-Time                              18
+
+SALARY INTELLIGENCE:
+  Average min salary : 51,197 (local currency)
+  Roles with salary  : 670 / 1,007 (66%)
+
+TOP JOB TITLES (by posting volume):
+   1. Data Analyst Trainee                        89
+   2. Data Analyst                                52
+   3. Trainee Data Analyst                        44
+   4. Upskilling als Controller (m/w/d): Daten Management mit KI, Azure & Power BI – für den schnellen Wiedereinstieg    39
+   5. Referent der Geschäftsführung (m/w/d): Datenanalyse für Unternehmenssteuerung & Reporting mit SQL, Azure & Power BI    38
+   6. Deine Chance: Datenmanagement Upskilling - SQL, Microsoft Azure & Power BI für den schnellen Wiedereinstieg    37
+   7. Data Engineer                               25
+   8. Senior Data Analyst                         15
+   9. Junior Data Analyst                         10
+  10. Data Science Trainee                        10
+
+TOP IN-DEMAND SKILLS (across all roles):
+   1. r                                (1,007 mentions)
+   2. ui                               (397 mentions)
+   3. git                              (208 mentions)
+   4. data analysis                    (164 mentions)
+   5. go                               (126 mentions)
+   6. ux                               (70 mentions)
+   7. power bi                         (36 mentions)
+   8. excel                            (33 mentions)
+   9. scala                            (28 mentions)
+  10. sql                              (25 mentions)
+  11. rust                             (23 mentions)
+  12. leadership                       (17 mentions)
+  13. communication                    (16 mentions)
+  14. crm                              (16 mentions)
+  15. tableau                          (16 mentions)
+
+SAMPLE VACANCIES (10 most recent):
+
+  Customer Operational Intelligence Lead — Essex County Council
+  Location : Willows Green, Chelmsford (Chelmsford, United Kingdom)
+  Salary   : 29,785 - 35,041 (GBP)
+  Source   : Adzuna/Customer Services Jobs [United Kingdom]  |  Posted: 2026-05-30
+  URL      : https://www.adzuna.co.uk/jobs/details/5745711314?utm_medium=api&utm_source=90961c1a
+
+  Data Analyst Trainee — ITOL Recruit
+  Location : Twickenham, London (Greater London, United Kingdom)
+  Salary   : 30,000 - 50,000 (GBP)
+  Source   : Adzuna/IT Jobs [United Kingdom]  |  Posted: 2026-05-30
+  URL      : https://www.adzuna.co.uk/jobs/land/ad/5745513152?se=gABogl5c8RGbGvW-bcCcHA&utm_medium=api&utm_source=90961c1a&v=9B942C06FE01846178018F9B4CB09C4207AECC5E
+
+  Data Analyst Trainee — ITOL Recruit
+  Location : Dartford, Kent (Dartford, United Kingdom)
+  Salary   : 30,000 - 50,000 (GBP)
+  Source   : Adzuna/IT Jobs [United Kingdom]  |  Posted: 2026-05-30
+  URL      : https://www.adzuna.co.uk/jobs/land/ad/5745512254?se=gABogl5c8RGbGvW-bcCcHA&utm_medium=api&utm_source=90961c1a&v=C6DA2B91B8A5802BBD597968A77C4DDA24EC628A
+
+  Junior Data Analyst — Runshaw College
+  Location : Farington, Leyland (South Ribble, United Kingdom)
+  Salary   : Not stated (GBP)
+  Source   : Adzuna/IT Jobs [United Kingdom]  |  Posted: 2026-05-30
+  URL      : https://www.adzuna.co.uk/jobs/details/5745488168?utm_medium=api&utm_source=90961c1a
+
+  Senior Data Analyst — Nottingham Community Housing Association
+  Location : Nottingham, Nottinghamshire (City of Nottingham, United Kingdom)
+  Salary   : 45,000 - 45,000 (GBP)
+  Source   : Adzuna/IT Jobs [United Kingdom]  |  Posted: 2026-05-30
+  URL      : https://www.adzuna.co.uk/jobs/details/5745470205?utm_medium=api&utm_source=90961c1a
+
+  Data Scientist — Entech Technical Solutions Ltd
+  Location : Larne, Northern Ireland (Larne, United Kingdom)
+  Salary   : 92,560 - 92,560 (GBP)
+  Source   : Adzuna/IT Jobs [United Kingdom]  |  Posted: 2026-05-30
+  URL      : https://www.adzuna.co.uk/jobs/details/5745467818?utm_medium=api&utm_source=90961c1a
+
+  Staff Machine Learning Scientist, Financial Crime — Referrals Only
+  Location : London, UK (Greater London, United Kingdom)
+  Salary   : 140,000 - 175,000 (GBP)
+  Source   : Adzuna/IT Jobs [United Kingdom]  |  Posted: 2026-05-30
+  URL      : https://www.adzuna.co.uk/jobs/details/5745460590?utm_medium=api&utm_source=90961c1a
+
+  Data Protection & Compliance Analyst — OCS Group
+  Location : London, UK (Greater London, United Kingdom)
+  Salary   : 54,344 - 54,344 (GBP)
+  Source   : Adzuna/IT Jobs [United Kingdom]  |  Posted: 2026-05-30
+  URL      : https://www.adzuna.co.uk/jobs/land/ad/5745460013?se=gABogl5c8RGbGvW-bcCcHA&utm_medium=api&utm_source=90961c1a&v=FF21722FDD0C36B301F39F36917563DBF7817D30
+
+  Platform Data Engineer — TotalMobile
+  Location : UK (United Kingdom)
+  Salary   : 52,076 - 52,076 (GBP)
+  Source   : Adzuna/IT Jobs [United Kingdom]  |  Posted: 2026-05-30
+  URL      : https://www.adzuna.co.uk/jobs/details/5745459500?utm_medium=api&utm_source=90961c1a
+
+  Lead Business Analyst — QBE
+  Location : London, UK (Greater London, United Kingdom)
+  Salary   : 67,096 - 67,096 (GBP)
+  Source   : Adzuna/IT Jobs [United Kingdom]  |  Posted: 2026-05-30
+  URL      : https://www.adzuna.co.uk/jobs/details/5745458580?utm_medium=api&utm_source=90961c1a
+
+====================================================================

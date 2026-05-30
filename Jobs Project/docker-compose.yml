@@ -1,0 +1,37 @@
+# ── docker-compose.yml ────────────────────────────────────────────────────────
+# Starts the pipeline scheduler; outputs land in ./output, logs in ./logs.
+#
+# Usage:
+#   docker-compose up -d                         # start in background
+#   docker-compose logs -f scraper               # follow logs
+#   docker-compose down                          # stop
+#
+# Override search:
+#   docker-compose run --rm scraper \
+#       --keyword "Software Engineer" --countries us,de,gb --pages 3
+
+version: "3.9"
+
+services:
+  scraper:
+    build: .
+    container_name: recruitment_scraper
+    restart: unless-stopped
+    environment:
+      # Optional: override built-in API keys via env
+      - REED_API_KEY=${REED_API_KEY:-}
+      - ADZUNA_APP_ID=${ADZUNA_APP_ID:-}
+      - ADZUNA_API_KEY=${ADZUNA_API_KEY:-}
+      - TZ=UTC
+    volumes:
+      - ./output:/app/output          # persist CSV/JSON/briefings
+      - ./logs:/app/logs              # persist rotating logs
+    command:
+      - --keyword
+      - "Data Analyst, Data Scientist, Data Engineer"
+      - --countries
+      - "gb,us,de,fr,au"
+      - --pages
+      - "2"
+      - --interval
+      - "12"
